@@ -1,0 +1,207 @@
+[
+    {
+        "id": 1,
+        "label": "Modulo 1: Instalación y configuración del entorno de trabajo",
+        "children": [
+            {
+                "id": 11,
+                "label": "Instalación de Python y herramientas clave",
+                "component": "PythonInstallationAnimation",
+                "path": "./contenido/python-installation-animation"
+            },
+            {
+                "id": 12,
+                "label": "Creación y gestión de entornos virtuales",
+                "component": "VirtualEnvAnimation",
+                "path": "./contenido/virtual-env-animation"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "label": "Modulo 2: Fundamentos de Python",
+        "children": [
+            {
+                "id": 21,
+                "label": "Sintaxis básica: variables, tipos de datos (enteros, flotantes, cadenas, listas, diccionarios).",
+                "component": "pythonsyntaxinteractive",
+                "path": "./contenido/python-syntax-interactive"
+            },
+            {
+                "id": 22,
+                "label": "Operadores: aritméticos, de comparación y lógicos.",
+                "component": "operadoresinteractivos",
+                "path": "./contenido/operadores-interactivos"
+            },
+            {
+                "id": 23,
+                "label": "Estructuras de control: condicionales (if, else, elif).",
+                "component": "condicionalesinteractivos",
+                "path": "./contenido/condicionales-interactivos"
+            },
+            {
+                "id": 24,
+                "label": "Bucles (for, while).",
+                "component": "buclesanimacioninteractiva",
+                "path": "./contenido/bucles-animacion-interactiva"
+            },
+            {
+                "id": 26,
+                "label": "Funciones",
+                "component": "pythonfunctionsinteractive",
+                "path": "./contenido/python-functions-interactive"
+            },
+            {
+                "id": 27,
+                "label": "Manejo de excepciones",
+                "component": "exceptionhandlinganimation",
+                "path": "./contenido/python-exception-handling-animation"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "label": "Modulo 3: Manipulación de datos",
+        "children": [
+            {
+                "id": 31,
+                "label": "Listas, tuplas, conjuntos y diccionarios.",
+                "component": "PythonInstallationAnimation",
+                "path": "./contenido/python-installation-animation"
+            },
+            {
+                "id": 32,
+                "label": "Operaciones de comprensión de listas y bucles anidados.",
+                "component": "VirtualEnvAnimation",
+                "path": "./contenido/virtual-env-animation"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "label": "Modulo 4: Manejo de bibliotecas",
+        "children": [
+            {
+                "id": 41,
+                "label": "NumPy: Manipulación de matrices y operaciones numéricas.",
+                "component": "PythonInstallationAnimation",
+                "path": "./contenido/python-installation-animation"
+            },
+            {
+                "id": 42,
+                "label": "Pandas: Análisis de datos y manipulación de DataFrames.",
+                "component": "VirtualEnvAnimation",
+                "path": "./contenido/virtual-env-animation"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "label": "Modulo 5: Introducción a la visualización de datos",
+        "children": [
+            {
+                "id": 51,
+                "label": "Uso de Matplotlib y Seaborn para gráficos básicos.",
+                "component": "PythonInstallationAnimation",
+                "path": "./contenido/python-installation-animation"
+            },
+            {
+                "id": 52,
+                "label": "Creación de gráficos de dispersión, barras y líneas.",
+                "component": "VirtualEnvAnimation",
+                "path": "./contenido/virtual-env-animation"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "label": "Modulo 6: Lectura y escritura de archivos",
+        "children": [
+            {
+                "id": 61,
+                "label": "Manejo de archivos CSV, JSON y Excel usando bibliotecas como Pandas.",
+                "component": "PythonInstallationAnimation",
+                "path": "./contenido/python-installation-animation"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "label": "Modulo 7: Conceptos de programación orientada a objetos en python",
+        "children": [
+            {
+                "id": 71,
+                "label": "Clases, objetos, herencia y polimorfismo.",
+                "component": "PythonInstallationAnimation",
+                "path": "./contenido/python-installation-animation"
+            },
+            {
+                "id": 72,
+                "label": "Métodos y atributos.",
+                "component": "PythonInstallationAnimation",
+                "path": "./contenido/python-installation-animation"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "label": "Modulo 8: Introducción a la Inteligencia Artificial y Machine Learning",
+        "children": [
+            {
+                "id": 81,
+                "label": "Introducción a Scikit-learn para tareas básicas de Machine Learning.",
+                "component": "PythonInstallationAnimation",
+                "path": "./contenido/python-installation-animation"
+            },
+            {
+                "id": 82,
+                "label": "Conceptos básicos: modelos de clasificación, regresión y clustering.",
+                "component": "PythonInstallationAnimation",
+                "path": "./contenido/python-installation-animation"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "label": "Modulo 9: Preprocesamiento de datos",
+        "children": [
+            {
+                "id": 91,
+                "label": "Limpieza y preparación de datos.",
+                "component": "PythonInstallationAnimation",
+                "path": "./contenido/python-installation-animation"
+            },
+            {
+                "id": 92,
+                "label": "Manejo de datos faltantes y normalización.",
+                "component": "PythonInstallationAnimation",
+                "path": "./contenido/python-installation-animation"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "label": "Modulo 10: Modelos de Machine Learning simples",
+        "children": [
+            {
+                "id": 101,
+                "label": "Creación de modelos de regresión lineal y logística.",
+                "component": "PythonInstallationAnimation",
+                "path": "./contenido/python-installation-animation"
+            },
+            {
+                "id": 102,
+                "label": "Validación de modelos: uso de conjuntos de entrenamiento y prueba.",
+                "component": "PythonInstallationAnimation",
+                "path": "./contenido/python-installation-animation"
+            },
+            {
+                "id": 103,
+                "label": "Evaluación de modelos: precisión, matriz de confusión.",
+                "component": "PythonInstallationAnimation",
+                "path": "./contenido/python-installation-animation"
+            }
+        ]
+    }
+
+]

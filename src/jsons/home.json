@@ -1,0 +1,8 @@
+{
+    "imageSrc": "./assets/cover.jpg",
+    "imageAlt": "Imagen",
+    "title": "Curso Introducción a Python para Inteligencia Artificial",
+    "description": [
+        "Este curso está diseñado para principiantes que desean aprender Python desde cero, con un enfoque en aplicaciones de Inteligencia Artificial (IA). A lo largo del curso, los estudiantes desarrollarán habilidades fundamentales de programación en Python, aprenderán a utilizar bibliotecas clave y comprenderán los conceptos básicos de IA. Al finalizar el curso, los participantes estarán preparados para implementar algoritmos simples de IA y realizar análisis de datos básicos."
+    ]
+}
